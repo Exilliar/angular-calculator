@@ -7,11 +7,13 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { HomepageComponent } from './pages/homepage/homepage.component';
+import { CalculatorComponent } from './pages/calculator/calculator.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomepageComponent
+    HomepageComponent,
+    CalculatorComponent
   ],
   imports: [
     BrowserModule,
