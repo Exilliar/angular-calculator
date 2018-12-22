@@ -1,6 +1,122 @@
 .mainBox
 {
     border-style: solid;
-    padding: 1%;
+    padding: 0%;
     margin: 2%;
+    height: 13em;
+    width: 12.5em;
+}
+
+#zero, #one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #equals, #decimal, #divide, #multiply, #openBracket, #closeBracket
+{
+    position: absolute;
+    height: 2em;
+    width: 2em;
+}
+#add, #subtract
+{
+    position: absolute;
+    height: 4.5em;
+    width: 2em;
+}
+#outputResult
+{
+    position: absolute;
+    height: 2em;
+    width: 11.8em;
+    left: 4em;
+    top: 3em;
+}
+
+#divide
+{
+    left: 11.5em;
+    top: 8.5em;
+}
+#multiply
+{
+    left: 14em;
+    top: 8.5em;
+}
+#openBracket
+{
+    left: 11.5em;
+    top: 6em;
+}
+#closeBracket
+{
+    left: 14em;
+    top: 6em;
+}
+
+#add
+{
+    left: 11.5em;
+    top: 11em;
+}
+#subtract
+{
+    left: 14em;
+    top: 11em;
+}
+
+#one
+{
+    left: 4em;
+    top: 11em;
+}
+#two
+{
+    left: 6.5em;
+    top: 11em;
+}
+#three
+{
+    left: 9em;
+    top: 11em;
+}
+#four
+{
+    left: 4em;
+    top: 8.5em;
+}
+#five
+{
+    left: 6.5em;
+    top: 8.5em;
+}
+#six
+{
+    left: 9em;
+    top: 8.5em;
+}
+#seven
+{
+    left: 4em;
+    top: 6em;
+}
+#eight
+{
+    left: 6.5em;
+    top: 6em;
+}
+#nine
+{
+    left: 9em;
+    top: 6em;
+}
+#zero
+{
+    left: 4em;
+    top: 13.5em;
+}
+#decimal
+{
+    left: 6.5em;
+    top: 13.5em;
+}
+#equals
+{
+    left: 9em;
+    top: 13.5em;
 }

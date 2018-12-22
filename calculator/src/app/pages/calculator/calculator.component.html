@@ -1,7 +1,9 @@
 <div class="mainBox">
+  <!-- Textbox -->
   <input type="text" id="outputResult" readonly="true">
 
   <!-- Numbers -->
+  <button (click)="clickNumber(0)" id="zero">0</button>
   <button (click)="clickNumber(1)" id="one">1</button>
   <button (click)="clickNumber(2)" id="two">2</button>
   <button (click)="clickNumber(3)" id="three">3</button>
@@ -19,4 +21,6 @@
   <button (click)="clickSymbol('divide')" id="divide">/</button>
   <button (click)="clickSymbol('open')" id="openBracket">(</button>
   <button (click)="clickSymbol('close')" id="closeBracket">)</button>
+  <button (click)="clickSymbol('.')" id="decimal">.</button>
+  <button (click)="clickSymbol('=')" id="equals">=</button>
 </div>
