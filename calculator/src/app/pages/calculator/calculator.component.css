@@ -24,99 +24,99 @@
     position: absolute;
     height: 2em;
     width: 11.8em;
-    left: 4em;
-    top: 3em;
+    left: 2.5em;
+    top: 2.5em;
 }
 
 #divide
 {
-    left: 11.5em;
-    top: 8.5em;
+    left: 10em;
+    top: 8em;
 }
 #multiply
 {
-    left: 14em;
-    top: 8.5em;
+    left: 12.5em;
+    top: 8em;
 }
 #openBracket
 {
-    left: 11.5em;
-    top: 6em;
+    left: 10em;
+    top: 5.5em;
 }
 #closeBracket
 {
-    left: 14em;
-    top: 6em;
+    left: 12.5em;
+    top: 5.5em;
 }
 
 #add
 {
-    left: 11.5em;
-    top: 11em;
+    left: 10em;
+    top: 10.5em;
 }
 #subtract
 {
-    left: 14em;
-    top: 11em;
+    left: 12.5em;
+    top: 10.5em;
 }
 
 #one
 {
-    left: 4em;
-    top: 11em;
+    left: 2.5em;
+    top: 10.5em;
 }
 #two
 {
-    left: 6.5em;
-    top: 11em;
+    left: 5em;
+    top: 10.5em;
 }
 #three
 {
-    left: 9em;
-    top: 11em;
+    left: 7.5em;
+    top: 10.5em;
 }
 #four
 {
-    left: 4em;
-    top: 8.5em;
+    left: 2.5em;
+    top: 8em;
 }
 #five
 {
-    left: 6.5em;
-    top: 8.5em;
+    left: 5em;
+    top: 8em;
 }
 #six
 {
-    left: 9em;
-    top: 8.5em;
+    left: 7.5em;
+    top: 8em;
 }
 #seven
 {
-    left: 4em;
-    top: 6em;
+    left: 2.5em;
+    top: 5.5em;
 }
 #eight
 {
-    left: 6.5em;
-    top: 6em;
+    left: 5em;
+    top: 5.5em;
 }
 #nine
 {
-    left: 9em;
-    top: 6em;
+    left: 7.5em;
+    top: 5.5em;
 }
 #zero
 {
-    left: 4em;
-    top: 13.5em;
+    left: 2.5em;
+    top: 13em;
 }
 #decimal
 {
-    left: 6.5em;
-    top: 13.5em;
+    left: 5em;
+    top: 13em;
 }
 #equals
 {
-    left: 9em;
-    top: 13.5em;
+    left: 7.5em;
+    top: 13em;
 }
