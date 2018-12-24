@@ -14,13 +14,13 @@ export class CalculatorComponent implements OnInit {
 
   clickNumber(number)// sends the number that was clicked to the server
   {
-    console.log(number);
+    // console.log(number);
     this.addToCalc(number);
     return number;
   }
   clickSymbol(symbol)// sends the symbl that was clicked to the server
   {
-    console.log(symbol);
+    // console.log(symbol);
     this.addToCalc(symbol);
     return symbol;
   }
@@ -37,6 +37,6 @@ export class CalculatorComponent implements OnInit {
       calculation = "";
     }
     (<HTMLInputElement>document.getElementById("outputResult")).value = calculation;
-    console.log(calculation);
+    // console.log(calculation);
   }
 }

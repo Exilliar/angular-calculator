@@ -2,9 +2,9 @@
 {
     border-style: solid;
     padding: 0%;
-    margin: 2%;
-    height: 13em;
-    width: 12.5em;
+    margin: 0%;
+    height: 12.5em;
+    width: 12em;
 }
 
 #zero, #one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #equals, #decimal, #divide, #multiply, #openBracket, #closeBracket
@@ -24,99 +24,99 @@
     position: absolute;
     height: 2em;
     width: 11.8em;
-    left: 2.5em;
-    top: 2.5em;
+    left: 2em;
+    top: 2em;
 }
 
 #divide
 {
-    left: 10em;
-    top: 8em;
+    left: 9.5em;
+    top: 7.5em;
 }
 #multiply
 {
-    left: 12.5em;
-    top: 8em;
+    left: 12em;
+    top: 7.5em;
 }
 #openBracket
 {
-    left: 10em;
-    top: 5.5em;
+    left: 9.5em;
+    top: 5em;
 }
 #closeBracket
 {
-    left: 12.5em;
-    top: 5.5em;
+    left: 12em;
+    top: 5em;
 }
 
 #add
 {
-    left: 10em;
-    top: 10.5em;
+    left: 9.5em;
+    top: 10em;
 }
 #subtract
 {
-    left: 12.5em;
-    top: 10.5em;
+    left: 12em;
+    top: 10em;
 }
 
 #one
 {
-    left: 2.5em;
-    top: 10.5em;
+    left: 2em;
+    top: 10em;
 }
 #two
 {
-    left: 5em;
-    top: 10.5em;
+    left: 4.5em;
+    top: 10em;
 }
 #three
 {
-    left: 7.5em;
-    top: 10.5em;
+    left: 7em;
+    top: 10em;
 }
 #four
 {
-    left: 2.5em;
-    top: 8em;
+    left: 2em;
+    top: 7.5em;
 }
 #five
 {
-    left: 5em;
-    top: 8em;
+    left: 4.5em;
+    top: 7.5em;
 }
 #six
 {
-    left: 7.5em;
-    top: 8em;
+    left: 7em;
+    top: 7.5em;
 }
 #seven
 {
-    left: 2.5em;
-    top: 5.5em;
+    left: 2em;
+    top: 5em;
 }
 #eight
 {
-    left: 5em;
-    top: 5.5em;
+    left: 4.5em;
+    top: 5em;
 }
 #nine
 {
-    left: 7.5em;
-    top: 5.5em;
+    left: 7em;
+    top: 5em;
 }
 #zero
 {
-    left: 2.5em;
-    top: 13em;
+    left: 2em;
+    top: 12.5em;
 }
 #decimal
 {
-    left: 5em;
-    top: 13em;
+    left: 4.5em;
+    top: 12.5em;
 }
 #equals
 {
-    left: 7.5em;
-    top: 13em;
+    left: 7em;
+    top: 12.5em;
 }
