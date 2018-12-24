@@ -12,5 +12,8 @@
     "url": "https://github.com/Exilliar/angular-calculator/tree/develop/calculator/src/app/pages"
   },
   "author": "Exilliar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
