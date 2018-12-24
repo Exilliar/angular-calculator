@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server to do calculations for angular calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Exilliar/angular-calculator/tree/develop/calculator/src/app/pages"
+  },
+  "author": "Exilliar",
+  "license": "ISC"
+}
