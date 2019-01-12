@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CalculateService } from './../../service/calculate.service';
 
 @Component({
   selector: 'app-calculator',
@@ -7,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalculatorComponent implements OnInit {
 
-  constructor() { }
+  constructor( public calcService: CalculateService) { }
 
   ngOnInit() {
   }
@@ -16,6 +17,8 @@ export class CalculatorComponent implements OnInit {
   {
     // console.log(number);
     this.addToCalc(number);
+    var message = this.calcService.send();
+    console.log("message: " + message);
     return number;
   }
   clickSymbol(symbol)// sends the symbl that was clicked to the server
